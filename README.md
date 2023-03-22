@@ -6,6 +6,7 @@ Welcome to the [Salesforce Lightning Design System](https://www.lightningdesigns
 
 * Tailored for building Salesforce apps: Using the Lightning Design System markup and CSS framework results in UIs that reflect the Salesforce Lightning look and feel.
 * Continuously updated: As long as you’re using the latest version of the Lightning Design System, your pages are always up to date with Salesforce UI changes.
+* Component used : Horizontal List, Cards, Map. (also Tested Button, Dueling Picklist & Path)
 
 ## Documentation
 
